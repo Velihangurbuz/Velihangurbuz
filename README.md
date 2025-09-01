@@ -1,4 +1,4 @@
-  [![MasterHead](https://www.varolyazilim.com/images/haber/3394322041-En-Populer-Programlama-Dilleri.webp)
+[MasterHead](https://www.varolyazilim.com/images/haber/3394322041-En-Populer-Programlama-Dilleri.webp)
 <h1 align="center">Merhaba 👋, ben Velihan GÜRBÜZ</h1>
 <h3 align="center">TÜRKİYE'den tutkulu bir ön yüz geliştiricisi</h3>
 
