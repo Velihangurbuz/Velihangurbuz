@@ -1,4 +1,4 @@
- [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.varolyazilim.com%2Fhaber%2Fweb-gelistirme-dilleri-ve-hangi-durumda-hangi-dili-kullanmalisiniz%2F619&psig=AOvVaw3yypVAyZSiFJVfdEd0MkMn&ust=1756838802502000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi1uNucuI8DFQAAAAAdAAAAABAE))
+  [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.varolyazilim.com%2Fhaber%2Fweb-gelistirme-dilleri-ve-hangi-durumda-hangi-dili-kullanmalisiniz%2F619&psig=AOvVaw3yypVAyZSiFJVfdEd0MkMn&ust=1756838802502000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi1uNucuI8DFQAAAAAdAAAAABAE)
 <h1 align="center">Merhaba 👋, ben Velihan GÜRBÜZ</h1>
 <h3 align="center">TÜRKİYE'den tutkulu bir ön yüz geliştiricisi</h3>
 
