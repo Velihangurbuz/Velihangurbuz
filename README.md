@@ -1,10 +1,10 @@
 ![MasterHead](https://www.varolyazilim.com/images/haber/3394322041-En-Populer-Programlama-Dilleri.webp)
 <h1 align="center">Merhaba 👋, ben Velihan GÜRBÜZ</h1>
-<h3 align="center">TÜRKİYE'den tutkulu bir ön yüz geliştiricisi</h3>
+<h3 align="center">TÜRKİYE'den tutkulu bir yazılım geliştiricisi</h3>
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/veli̇hn-gürbüz-1959b625a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veli̇hn-gürbüz-1959b625a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veli̇hn-gurbuz-1959b625a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veli̇hn-gürbüz-1959b625a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
